@@ -75,6 +75,7 @@ send.addEventListener('click',function(){
             document.getElementById('anwser__content__last').classList.remove('disappear')
         },1000);
     }, 1000);
+    form.reset()
     })
 
 
