@@ -23,7 +23,7 @@
 
 
 let start = document.getElementById('startChat')
-let member = ['bố','mẹ','anh','chị',"ông",'bà','yến','thảo','hiếu','em','cô','chú','bác','mentor']
+let member = ['bố','nhật','mẹ','anh','chị',"ông",'bà','yến','thảo','hiếu','em','cô','chú','bác','mentor','thắng','dũng','xuân','chi','phong']
 let send = document.getElementById('send')
 // click to start
 start.addEventListener('click',function(){
